@@ -1,4 +1,4 @@
-# PRODIGY-WEB-DEVELOPMENT-
+# PRODIGY-WEB-DEVELOPMENT
 This repository contains a collection of web development projects completed during my internship at Prodigy Infotech. Each project showcases my skills in front-end and back-end web development, as well as my ability to work with various technologies and frameworks.
 # PROJECTS INCLUDED:
 1.Responsive Landing Page: A modern and visually appealing landing page designed using HTML, CSS, and JavaScript. This project highlights my ability to create responsive layouts that adapt seamlessly to different screen sizes and devices.
