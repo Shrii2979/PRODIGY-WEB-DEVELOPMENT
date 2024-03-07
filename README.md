@@ -1,4 +1,5 @@
-#Projects Included:
+Projects Included:
+
 1.Responsive Landing Page: A modern and visually appealing landing page designed using HTML, CSS, and JavaScript. This project highlights my ability to create responsive layouts that adapt seamlessly to different screen sizes and devices.
 
 2.Stopwatch Application: A simple yet functional stopwatch application built with HTML, CSS, and JavaScript. Users can start, stop, and reset the stopwatch, making it a useful tool for timing various activities.
